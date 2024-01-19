@@ -1,0 +1,21 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "for boook store app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress",
+    "automation",
+    "framework"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
+}
